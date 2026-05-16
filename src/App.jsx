@@ -112,16 +112,3 @@ export default function App() {
   );
 }
 
-{active === "Contact" && (
-  <div className="flex flex-col items-center">
-    <h2 className="text-4xl">Contact</h2>
-
-    <a href="mailto:suneelkumarprathipati006@gmail.com">
-      Email Me
-    </a>
-
-    <a href="https://github.com/suneelkumarprathipati">
-      GitHub
-    </a>
-  </div>
-)}
